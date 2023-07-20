@@ -12,6 +12,7 @@
     --bg-link-hover: rgba(255, 255, 255, 0.05);
     --bg-social-hover: rgba(255, 255, 255, 0.2);
     --bg-switch: url(./assets/moon-stars.svg);
+    --switch-color: rgba(255, 255, 255, 0.5)
 }
 
 .light{
@@ -22,6 +23,7 @@
     --bg-link-hover: rgba(0,0,0, 0.05);
     --bg-social-hover: rgba(0,0,0, 0.2);
     --bg-switch: url(./assets/sun.svg);
+    --switch-color: rgba(0,0,0,0.2)
 }
 
 body * {
@@ -88,7 +90,7 @@ body{
     animation: slide-in 0.2s forwards;
 }
 #switch button:hover{
-    outline: 8px solid rgba(255, 255, 255, 0.5);
+    outline: 6px solid var(--switch-color);
 }
 #switch span{
     width: 64px;
