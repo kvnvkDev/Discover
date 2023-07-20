@@ -7,8 +7,8 @@ function toggleBody(){
     const img = document.querySelector("img")
 
     if (body.classList.contains("light")){
-        img.setAttribute("src", "./assets/avatar-light.png")
+        img.setAttribute("src", "./assets/logo-light.png")
     }else{
-        img.setAttribute("src", "./assets/avatar.png")
+        img.setAttribute("src", "./assets/logo.png")
     }
 }
