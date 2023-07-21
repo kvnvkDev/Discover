@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="assets/readme.jpg">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="#">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="assets/readme.jpg">
 </p>
 
 <br>
